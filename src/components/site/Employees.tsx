@@ -17,7 +17,7 @@ type Employee = {
 const employees: Employee[] = [
   {
     id: "sonny",
-    name: "سُنّي",
+    name: "سِراج",
     role: "مدير السوشيال ميديا",
     icon: Megaphone,
     tint: "var(--jade)",
@@ -36,7 +36,7 @@ const employees: Employee[] = [
   },
   {
     id: "eva",
-    name: "إيفا",
+    name: "أمَل",
     role: "المساعدة التنفيذية",
     icon: Mail,
     tint: "var(--sky)",

@@ -30,8 +30,8 @@ export type TeamMember = {
 export const team: TeamMember[] = [
   {
     id: "sonny",
-    name: "سُنّي",
-    latin: "Sonny",
+    name: "سِراج",
+    latin: "Siraj",
     role: "مدير السوشيال ميديا",
     title: "يخطط، يصمّم، وينشر نيابة عنك",
     icon: Megaphone,
@@ -68,8 +68,8 @@ export const team: TeamMember[] = [
   },
   {
     id: "eva",
-    name: "إيفا",
-    latin: "Eva",
+    name: "أمَل",
+    latin: "Amal",
     role: "المساعدة التنفيذية",
     title: "تحمي وقتك من كل ما لا يستحقه",
     icon: Mail,
@@ -106,8 +106,8 @@ export const team: TeamMember[] = [
   },
   {
     id: "sam",
-    name: "سام",
-    latin: "Sam",
+    name: "فارس",
+    latin: "Faris",
     role: "مسؤول المبيعات",
     title: "يملأ خط مبيعاتك وأنت نائم",
     icon: Handshake,
@@ -182,8 +182,8 @@ export const team: TeamMember[] = [
   },
   {
     id: "dana",
-    name: "دانا",
-    latin: "Dana",
+    name: "دانة",
+    latin: "Danah",
     role: "المصممة",
     title: "هوية بصرية متسقة في كل مكان",
     icon: Palette,
